@@ -7,4 +7,5 @@ on the stock prices.
 
 
 </br>The detailed report and explanation of my approach is given in: https://github.com/krithikaa04/sw_hackathon/blob/main/sigmaWedge-report.pdf
-</br>COLAB notebook:  https://github.com/krithikaa04/sw_hackathon/blob/main/stock%20(1).ipynb
+</br>COLAB notebook:  [https://github.com/krithikaa04/sw_hackathon/blob/main/stock%20(1).ipynb
+](https://github.com/krithikaa04/sw_hackathon/blob/main/stock_priceCode.ipynb)https://github.com/krithikaa04/sw_hackathon/blob/main/stock_priceCode.ipynb
